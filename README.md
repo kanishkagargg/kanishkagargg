@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**kanishkagargg/kanishkagargg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📊 Data Analyst | 📈 Python | 🛠 SQL | 📉 Tableau | 🧮 Excel
 
-Here are some ideas to get you started:
+Passionate about turning data into actionable insights, I am a skilled data analyst with expertise in Python programming, SQL querying, and data visualization tools such as Tableau. With a strong foundation in statistics and machine learning techniques, I thrive on uncovering patterns and trends in data to drive informed decision-making.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔍 My specialties include:
+
+Data cleaning and preprocessing to ensure accuracy and reliability
+Exploratory data analysis to identify key insights and trends
+Predictive modeling to forecast future outcomes and trends
+Creating interactive dashboards and reports for stakeholders using Tableau
+Communicating complex technical concepts to non-technical audiences
+
+💼 Currently seeking opportunities to apply my analytical skills in a dynamic and collaborative environment. Let's connect and explore how I can help leverage data to drive your organization's success!
