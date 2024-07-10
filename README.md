@@ -14,3 +14,7 @@ Passionate about turning data into actionable insights, I am a skilled data anal
 - Communicating complex technical concepts to non-technical audiences
 
 💼 Currently seeking opportunities to apply my analytical skills in a dynamic and collaborative environment. Let's connect and explore how I can help leverage data to drive your organization's success!
+
+Have a look at my repositories for ongoing/completed projects.
+
+Thanks for visiting!
