@@ -35,10 +35,9 @@
 
 
 
-🔍 My specialties include:
+## My specialties include:
 
 - Data cleaning and preprocessing to ensure accuracy and reliability
-
 - Exploratory data analysis to identify key insights and trends
 - Predictive modeling to forecast future outcomes and trends
 - Creating interactive dashboards and reports for stakeholders using Tableau
