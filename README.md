@@ -7,6 +7,7 @@
     <td style="vertical-align: top;">
       Passionate about turning data into actionable insights, I am a skilled data analyst with expertise in Python programming, SQL querying, and data visualization tools such as Tableau. With a strong foundation in statistics and machine learning techniques, I thrive on uncovering patterns and trends in data to drive informed decision-making.
       
+      
 - I'm currently working with Zummit Infolabs as data Science Intern
 - I'm currently looking for full time data analysis/scientist jobs
 - Won 2nd prize in International Energy Hackathon conducted by ThinkOnward.
@@ -21,6 +22,16 @@
 
 ## Linkedin:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kanishkagarg23105/)
+
+## Tools and Languages:
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+[![Database](https://img.shields.io/badge/Database-003B57?style=for-the-badge&logo=databricks&logoColor=white)](https://en.wikipedia.org/wiki/Database)
+[![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365/excel)
+[![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)](https://www.tableau.com/)
+[![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)](https://powerbi.microsoft.com/)
+[![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
+[![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
 
 
 
