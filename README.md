@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 📊 Data Analyst | 📈 Python | 🛠 SQL | 📉 Tableau | 🧮 Excel
 
