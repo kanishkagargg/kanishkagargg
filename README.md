@@ -8,8 +8,7 @@
       Passionate about turning data into actionable insights, I am a skilled data analyst with expertise in Python programming, SQL querying, and data visualization tools such as Tableau. With a strong foundation in statistics and machine learning techniques, I thrive on uncovering patterns and trends in data to drive informed decision-making.
       
       
-- 💼 I'm currently working with Zummit Infolabs as a Data Science Intern.
-- 🔍 I'm currently looking for full-time data analysis/scientist jobs.
+- 💼 I'm currently working at DMI Innovations as a Data Analyst Intern.
 - 🏆 Won 2nd prize in International Energy Hackathon conducted by ThinkOnward.
 - 🤝 I'm looking to collaborate on open source.
 - ✉️ How to reach me: kgarg23105@gmail.com
