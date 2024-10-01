@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-📊 Data Analyst | 📈 Python | 🛠 SQL | 📉 Tableau | 🧮 Excel
+📊 Data Analyst | 📈 Python | 🛠 SQL | 📉 Power BI | 🧮 Excel
 
 <table>
   <tr>
