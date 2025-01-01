@@ -10,7 +10,6 @@
       
 - 💼 I'm currently working at DMI Innovations as a Data Analyst Intern.
 - 🏆 Won 2nd prize in International Energy Hackathon conducted by ThinkOnward.
-- 🤝 I'm looking to collaborate on open source.
 - ✉️ How to reach me: kgarg23105@gmail.com
     </td>
     <td style="vertical-align: top;">
