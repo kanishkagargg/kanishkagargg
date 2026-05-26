@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-📊 Data Analyst | 📈 Python | 🛠 SQL | 📉 Power BI | 🧮 Excel
+📊 Data Analyst | 📈 Python | 🛠 SQL | 📉 Power BI | 🧮 Excel | GenAI
 
 <table>
   <tr>
@@ -8,7 +8,7 @@
       Passionate about turning data into actionable insights, I am a skilled data analyst with expertise in Python programming, SQL querying, and data visualization tools such as Tableau. With a strong foundation in statistics and machine learning techniques, I thrive on uncovering patterns and trends in data to drive informed decision-making.
       
       
-- 💼 I'm currently working at DMI Innovations as a Data Analyst Intern.
+- 💼 I'm currently working at Coforge as a Data Analyst Intern.
 - 🏆 Won 2nd prize in International Energy Hackathon conducted by ThinkOnward.
 - ✉️ How to reach me: kgarg23105@gmail.com
     </td>
